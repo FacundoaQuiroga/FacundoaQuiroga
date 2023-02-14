@@ -6,6 +6,5 @@
 Here are some ideas to get you started: -->
 
 - :ocean: I’m currently working on VulcanoPro
-- :cyclone: I’m currently learning PHPUnit and Laravel
 
 
