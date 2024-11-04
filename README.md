@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started: -->
 
-- :ocean: I’m currently working on VulcanoPro
+- :ocean:
 
 
