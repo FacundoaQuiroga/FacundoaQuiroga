@@ -16,7 +16,7 @@ I have experience working on reservation systems, REST API integrations, databas
 
 ## Background
 
-I studied Analyst Programmer at INACAP and have worked in both software development and IT support. My experience combines web development, database management, API integration, networking and practical technical problem solving.
+I am certified as an Analyst Programmer by INACAP and have worked in both software development and IT support. My experience combines web development, database management, API integration, networking and practical technical problem solving.
 
 ## Contact
 
