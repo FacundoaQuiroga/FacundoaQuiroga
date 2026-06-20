@@ -18,6 +18,13 @@ I have experience working on reservation systems, REST API integrations, databas
 
 I am certified as an Analyst Programmer by INACAP and have worked in both software development and IT support. My experience combines web development, database management, API integration, networking and practical technical problem solving.
 
+## Featured Project
+
+Cabin Reservation Platform  
+Full-stack cabin reservation system built with Laravel, Vue 3, MySQL, Docker and Sanctum.
+
+Repository: https://github.com/FacundoaQuiroga/laravel-vue-cabin-booking
+
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/facundo-antonio-quiroga
